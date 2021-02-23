@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+:root {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 20px;
+    font-weight: bold;
+    --background-color: #cce;
+    --background-color-2: #aac;
+    --title-font: 'Akaya Telivigala', cursive;
+    --main-font: 'Play', sans-serif;
+    font-family: var(--main-font);
+}
+
+html,
+body {
+    background-color: var(--background-color);
+}
+
+.titulo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 60px;
+    margin-bottom: 10px;
+}
+
+.titulo img {
+    padding-top: 30px;
+    height: 60px;
+    margin-right: 20px;
+}
+
+h1 {
+    font-family: var(--title-font);
+    font-size: 50px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    margin: 5%;
+    align-items: center;
+    background-color: var(--background-color-2);
+    border-radius: 50%;
+}
+
+.blocos {
+    height: 80%;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    margin: 5%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.blocos>div {
+    height: 30vh;
+    width: 10vw;
+    margin: 5px;
+    border-radius: 20% 15% 20% 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-left: #55a solid 5px;
+    border-bottom: #a5a solid 5px;
+    box-shadow: #448 5px 5px 10px;
+    transition: background-color 0.5s;
+}
+
+.apresentacao {
+    background-color: #f88;
+}
+
+.apresentacao:hover {
+    background-color: rgb(194, 95, 95);
+}
+
+.cursos {
+    background-color: #92dd73;
+}
+
+.cursos:hover {
+    background-color: #6eb450;
+}
+
+.quem-sou {
+    background-color: #d0da13;
+}
+
+.quem-sou:hover {
+    background-color: #aeb618;
+}
+
+.financeiro {
+    background-color: #bd8ccc;
+}
+
+.financeiro:hover {
+    background-color: #9e6bad;
+}
+
+.contato {
+    background-color: #aaf;
+}
+
+.contato:hover {
+    background-color: rgb(143, 143, 236);
+}
+
+@media (max-width:1200px) {
+    main {
+        height: 140vh;
+    }
+    .titulo {
+        width: 70vw;
+        height: 40vh;
+        justify-content: space-between;
+        align-items: unset;
+    }
+    .blocos {
+        margin-top: -5vh;
+        flex-direction: column;
+    }
+    .blocos>div {
+        width: 40vw;
+        height: 15vh;
+    }
+}
