@@ -60,12 +60,18 @@ h1 {
     margin: 5px 0;
     border-radius: 20% 15% 20% 0%;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     border-left: #55a solid 5px;
     border-bottom: #a5a solid 5px;
     box-shadow: #448 5px 5px 10px;
     transition: background-color 0.5s;
+}
+
+.blocos>div>img {
+    height: 45%;
+    width: 45%;
 }
 
 .apresentacao {
@@ -77,11 +83,11 @@ h1 {
 }
 
 .cursos {
-    background-color: #92dd73;
+    background-color: #aaf;
 }
 
 .cursos:hover {
-    background-color: #6eb450;
+    background-color: rgb(143, 143, 236);
 }
 
 .quem-sou {
@@ -101,11 +107,11 @@ h1 {
 }
 
 .contato {
-    background-color: #aaf;
+    background-color: #92dd73;
 }
 
 .contato:hover {
-    background-color: rgb(143, 143, 236);
+    background-color: #6eb450;
 }
 
 @media (max-width:1200px) {
