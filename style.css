@@ -121,15 +121,15 @@ h1 {
         margin-bottom: 6vh;
     }
     .titulo h1 {
-        font-size: 40px;
+        font-size: 4ex;
         width: 50vw;
         text-align: center;
     }
     .titulo>img {
         position: absolute;
-        left: 8vw;
-        top: 8vh;
-        height: 100px;
+        left: 8vmin;
+        top: 8vmin;
+        height: 15vmin;
     }
     .blocos {
         height: 70%;
