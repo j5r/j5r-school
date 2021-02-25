@@ -1,4 +1,13 @@
-# Apresentação
+<style>
+img{
+    width: 7vmin;
+    height: 7vmin;
+    margin-bottom: -2.25vmin;
+}
+</style>
+# ![j5r](./../assets/j5r.svg) Apresentação
+
+
 
 Seja bem vindo à **Escola j5r**!
 
@@ -13,6 +22,7 @@ Dentre os itens a definir tenho: horário das aulas e as disciplinas solicitadas
 Espero poder contribuir com seus estudos e fazer parte do seu sucesso!
 
 
-Junior R. Ribeiro
-Fundador da escola j5r
+> Junior R. Ribeiro
+>
+> Fundador da escola j5r
 
