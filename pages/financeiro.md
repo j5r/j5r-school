@@ -22,8 +22,8 @@ Prefere o mais sofisticado? Mande um PIX com o Nubank.
 > Favorecido: **Junior Rodrigues Ribeiro**
 
 
-# ![Nubank](https://d26a57ydsghvgx.cloudfront.net/product/Customer%20Story%20Images/nu_logo_purple.png) Nubank
+# ![Nubank](http://img.ibxk.com.br/2015/12/30/30113940469199.jpg) Nubank
 
-> CHAVE PIX: `j5r@outlook.com`
+> CHAVE PIX: **j5r@outlook.com**
 >
-> Junior Rodrigues Ribeiro
+> Favorecido: **Junior Rodrigues Ribeiro**
