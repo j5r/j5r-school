@@ -6,16 +6,12 @@
     list-style: none;
     font-size: 20px;
     font-weight: bold;
-    --background-color: #cce;
-    --background-color-2: #aac;
+    --background-color: #151515;
+    --background-color-2: #8c3;
     --title-font: 'Akaya Telivigala', cursive;
     --main-font: 'Play', sans-serif;
     font-family: var(--main-font);
-}
-
-html,
-body {
-    background-color: var(--background-color);
+    background: #151515 url("https://j5r.github.io/j5r-school/assets/images/bkg.png") 0 0;
 }
 
 a {
@@ -29,7 +25,13 @@ main {
     margin: 5%;
     align-items: center;
     background-color: var(--background-color-2);
+    box-shadow: #575 5px 5px 20px;
     border-radius: 50%;
+    transition: border-radius 0.5s;
+}
+
+main:hover {
+    border-radius: 105px 5px 105px 5px;
 }
 
 .titulo {
@@ -44,9 +46,10 @@ main {
     margin-right: 20px;
 }
 
-h1 {
+.titulo>h1 {
     font-family: var(--title-font);
     font-size: 50px;
+    color: #242;
 }
 
 .blocos {

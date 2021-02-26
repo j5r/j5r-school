@@ -1,4 +1,11 @@
-# Matrículas e valores
+<style>
+img{
+    width: 7vmin;
+    height: 7vmin;
+    margin-bottom: -2vmin;
+}
+</style>
+# ![j5r](./../assets/j5r.svg) Matrículas e valores
 
 Os valores são promocionais, seguindo a regra:
 

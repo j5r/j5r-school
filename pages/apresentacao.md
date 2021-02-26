@@ -2,11 +2,10 @@
 img{
     width: 7vmin;
     height: 7vmin;
-    margin-bottom: -2.25vmin;
+    margin-bottom: -2vmin;
 }
 </style>
 # ![j5r](./../assets/j5r.svg) Apresentação
-
 
 
 Seja bem vindo à **Escola j5r**!
