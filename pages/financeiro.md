@@ -11,6 +11,8 @@ Prefere o tradicional depósito em conta? Use o Banco do Brasil.
 
 Prefere o mais sofisticado? Mande um PIX com o Nubank.
 
+Prefere pagar em boleto? Entre em contato comigo na seção [Contato](./../index.html).
+
 # ![Banco do Brasil](https://tijuca.aabb.com.br/wp-content/uploads/sites/194/2014/05/12-banco-do-brasil_f.png) Banco do Brasil
 
 > Banco: **001**
