@@ -23,5 +23,5 @@ Espero poder contribuir com seus estudos e fazer parte do seu sucesso!
 
 > Junior R. Ribeiro
 >
-> Fundador da escola j5r
+> Fundador e professor da escola j5r
 

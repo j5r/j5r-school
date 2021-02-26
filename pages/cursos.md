@@ -26,7 +26,7 @@ Você pode cancelar a matrícula dos módulos ainda não cursados, a qualquer mo
 
 # Cursos
 
-Abaixo seguem os cursos disponíveis, com as seus respectivos módulos e ementas e valor de cada módulo.
+Abaixo seguem os cursos disponíveis, com os seus respectivos módulos e ementas e valor de cada módulo.
 
 ## Cálculo Diferencial e Integral I (CDI21A)
 
