@@ -9,11 +9,11 @@ img{
 
 Prefere o tradicional depósito em conta? Use o Banco do Brasil.
 
-Prefere o mais sofisticado? Mande um PIX com o Nubank.
+Prefere o mais sofisticado? Mande um PIX para o Nubank.
 
 Prefere pagar em boleto? Entre em contato comigo na seção [Contato](./../index.html).
 
-# ![Banco do Brasil](https://tijuca.aabb.com.br/wp-content/uploads/sites/194/2014/05/12-banco-do-brasil_f.png) Banco do Brasil
+# ![Banco do Brasil](./../assets/icon-bb.png) Banco do Brasil
 
 > Banco: **001**
 >
@@ -24,7 +24,7 @@ Prefere pagar em boleto? Entre em contato comigo na seção [Contato](./../index
 > Favorecido: **Junior Rodrigues Ribeiro**
 
 
-# ![Nubank](http://img.ibxk.com.br/2015/12/30/30113940469199.jpg) Nubank
+# ![Nubank](./../assets/icon-nubank.png) Nubank
 
 > CHAVE PIX: **j5r@outlook.com**
 >
