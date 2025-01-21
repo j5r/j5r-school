@@ -40,3 +40,4 @@ Matemática Computacional.
 > Meus Diplomas:
 > - [Graduação](./../assets/pdf/diploma-graduacao.pdf)
 > - [Mestrado](./../assets/pdf/diploma-mestrado.pdf)
+> - [Doutorado](./../assets/pdf/diploma-doutorado.pdf)
